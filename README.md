@@ -9,6 +9,6 @@
 ![framework](./framework.png)
 
 * Visual Encoder:  ViT-G/14 from EVA-CLIP
-* Q-Former: ChineseBERT
+* Q-Former:  ChineseBERT
 * LLM:  InternLM 7B
 * Flamingo:  Gating Cross Attention + FFN
