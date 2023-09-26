@@ -10,5 +10,5 @@
 
 * Visual Encoder:  ViT-G/14 from EVA-CLIP
 * Q-Former: ChineseBERT
-* LLM:  InternLM 7B
+* LLM: InternLM 7B
 * Flamingo:  Gating Cross Attention + FFN
