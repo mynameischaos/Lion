@@ -1,8 +1,8 @@
 
 
-# Kiwi🥝
+# Lion🦁️
 
-**Kiwi**: **Ki**ndling Vision Intelligence **wi**thin Large Language Models. Codes and details will be released soon.
+**Lion**: Kind**li**ng Visi**on** Intelligence **wi**thin Large Language Models. Codes and details will be released soon.
 
 
 
