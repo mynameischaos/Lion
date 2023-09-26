@@ -2,7 +2,7 @@
 
 # Kiwi🥝
 
-Kiwi: **Ki**ndling Vision Intelligence **wi**thin Large Language Models. Codes and details will be released soon.
+**Kiwi**: **Ki**ndling Vision Intelligence **wi**thin Large Language Models. Codes and details will be released soon.
 
 
 
