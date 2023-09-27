@@ -13,4 +13,4 @@
 * LLM:  InternLM 7B
 * Flamingo:  Gating Cross Attention + FFN
 
-**Demo**: <a href="https://3180bd28533e190af4.gradio.live/">demo link</a>
+**Demo**: <a href="">demo link</a>
