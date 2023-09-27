@@ -14,3 +14,26 @@
 * Flamingo:  Gating Cross Attention + FFN
 
 **Demo**: <a href="https://0b6b9f4844e3463ee7.gradio.live/">demo link</a>
+
+### MME Benchmark
+[MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation), \
+a comprehensive benchmark for multimodal large language models evaluation. \
+MME evaluates perception and cognition abilities through 14 subtasks: \
+existence, count, position, color, poster, celebrity, scene, landmark, \
+artwork, OCR, commonsense reasoning, numerical calculation, text translation, and code reasoning.
+
+We achieves SOTAs on overall/perception/cognition performance evaluation.
+
+
+<div align="center">
+| Rank |      Model      |          Version         |  Score  |
+|:----:|:---------------:|:------------------------:|:-------:|
+| ️  1  | Ours            | Ours                     | 1991.5 |
+| ️  2  | InternLM-XComposer-VL | InternLM-7B        | 1919.5 |
+|   3  | Qwen-VL-Chat    |        Qwen-7B           | 1848.3 |
+|   4  |      MMICL      |         FlanT5xxl        | 1810.7 |
+|   5  |    Skywork-MM   |      Skywork-MM-13B      | 1775.5 |
+</div>
+
+<img src="evaluation/mme/perception.png" width="600"/>
+<img src="evaluation/mme/cognition.png" width="600"/>
