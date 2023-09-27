@@ -25,6 +25,11 @@
 <p align="center">
 Overall Performance
 </p>
+```
+<div align="center">
+
+```
+
 
 | Rank |         Model         |    Version     |   Score    |
 | :--: | :-------------------: | :------------: | :--------: |
@@ -34,10 +39,16 @@ Overall Performance
 |  4   |         MMICL         |   FlanT5xxl    |   1810.7   |
 |  5   |      Skywork-MM       | Skywork-MM-13B |   1775.5   |
 
+```
+
+</div>
+```
+
 
 <p align="center">
 <img src="evaluation/mme/perception.png" width="600"/>
 </p>
+
 
 <p align="center">
 <img src="evaluation/mme/cognition.png" width="600"/>
