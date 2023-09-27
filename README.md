@@ -33,5 +33,10 @@ Overall Performance
 |   5  |    Skywork-MM   |      Skywork-MM-13B      | 1775.5 |
 </div>
 
+<p align="center">
 <img src="evaluation/mme/perception.png" width="600"/>
+</p>
+
+<p align="center">
 <img src="evaluation/mme/cognition.png" width="600"/>
+</p>
