@@ -16,14 +16,11 @@
 **Demo**: <a href="https://0b6b9f4844e3463ee7.gradio.live/">demo link</a>
 
 ### MME Benchmark
-[MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation), \
-a comprehensive benchmark for multimodal large language models evaluation. \
-MME evaluates perception and cognition abilities through 14 subtasks: \
-existence, count, position, color, poster, celebrity, scene, landmark, \
-artwork, OCR, commonsense reasoning, numerical calculation, text translation, and code reasoning.
+[MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation),a comprehensive benchmark for multimodal large language models evaluation. MME evaluates perception and cognition abilities through 14 subtasks: existence, count, position, color, poster, celebrity, scene, landmark, artwork, OCR, commonsense reasoning, numerical calculation, text translation, and code reasoning. We achieves SOTAs on overall/perception/cognition performance evaluation.
 
-We achieves SOTAs on overall/perception/cognition performance evaluation.
-
+<p align="center">
+Overall Performance
+</p>
 
 <div align="center">
 | Rank |      Model      |          Version         |  Score  |
