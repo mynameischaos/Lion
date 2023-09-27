@@ -27,7 +27,6 @@ Overall Performance
 </p>
 ```
 <div align="center">
-
 ```
 
 
@@ -40,7 +39,6 @@ Overall Performance
 |  5   |      Skywork-MM       | Skywork-MM-13B |   1775.5   |
 
 ```
-
 </div>
 ```
 
