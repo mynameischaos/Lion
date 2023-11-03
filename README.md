@@ -11,7 +11,7 @@
 * LLM:  InternLM 7B
 * Flamingo:  Gating Cross Attention + FFN
 
-**Demo**: <a href="https://272487fde61435d9a9.gradio.live">demo link</a> (Recommend using English for questioning)
+**Demo**: <a href="https://0aa2e459be45f97ccf.gradio.live">demo link</a> (Recommend using English for questioning)
 
 ### MME Benchmark
 * [MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation),a comprehensive benchmark for multimodal large language models evaluation. MME evaluates perception and cognition abilities through 14 subtasks: existence, count, position, color, poster, celebrity, scene, landmark, artwork, OCR, commonsense reasoning, numerical calculation, text translation, and code reasoning. 
