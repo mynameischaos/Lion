@@ -12,7 +12,7 @@
 * Flamingo:  Gating Cross Attention + FFN
 
 
-**Demo**: <a href="https://53ea14358a144ff805.gradio.live">demo link</a> (Recommend using English for questioning)
+**Demo**: <a href="https://297d33d6f958f2f830.gradio.live">demo link</a> (Recommend using English for questioning)
 
 
 ### MME Benchmark
